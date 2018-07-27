@@ -1,0 +1,122 @@
+﻿body{font-size:12px;}
+
+#login_container{
+  top: 211px;
+  height: 393px;
+  width: 590px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: url(../images/jloginbox03.png) no-repeat;
+}
+
+#login_container1_form{
+  position:absolute;
+  left: 69px;
+  top: 121px;
+  width: 473px;
+  height: 252px;
+}
+
+#login_userLogin{
+  left: 102px;
+  top: 89px;
+  font-size: 18px;
+  font-family: "微软雅黑";
+  font-weight: bold;
+  color: #505050;
+  line-height: 20px;
+}
+
+#login_loginin{
+  left: 174px;
+  top: 94px;
+  font-size: 14px;
+  color: #505050;
+  line-height: 16px;
+}
+
+#login_jPanel4{
+  left: 35px;
+  top: 121px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#login_login{
+  left: 156px;
+  top: 192px;
+  width:79px;
+  height:20px;
+}
+
+#login_register{
+  left: 248px;
+  top: 193px;
+  width:79px;
+  height:20px;
+}
+
+#login_nameLabel{
+  left: 32px;
+  top: 4px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#login_passwordLabel{
+  left: 33px;
+  top: 62px;
+  height: 48px;
+  width: 394px;
+  background: #33393f;
+}
+
+#login_userName{
+  left: 31px;
+  top: 16px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+
+#login_inputName{
+  left: 125px;
+  top: 10px;
+  width:242px;
+  height:20px;
+}
+
+#login_password{
+  left: 29px;
+  top: 17px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+
+#login_inputPassword{
+  left: 125px;
+  top: 11px;
+  width:242px;
+  height:20px;
+}
+
+#login_inputType{
+  left: 123px;
+  top: 10px;
+  height: 27px;
+  width: 105px;
+  position:absolute;
+}
+
+#login_type{
+  left: 29px;
+  top: 17px;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 16px;
+}
+

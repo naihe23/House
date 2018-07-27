@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!--<settings>
+        <setting name="lazyLoadingEnabled" value="true"/>
+        <setting name="aggressiveLazyLoading" value="false"/>
+    </settings>-->
+
+    <typeAliases>
+        <typeAlias alias="House_sale" type="house_sale.model.House_sale" />
+        <typeAlias type="house_sale.model.House_Order_state" alias="House_Order_state"/>
+        <typeAlias type="house_sale.model.User" alias="User"/>
+        <typeAlias type="house_sale.model.Staff" alias="Staff"/>
+        <typeAlias type="house_sale.model.AdminPassword" alias="AdminPassword"/>
+    </typeAliases>
+
+</configuration>

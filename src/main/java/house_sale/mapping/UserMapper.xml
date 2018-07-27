@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="house_sale.dao.UserDao">
+    <select id="query_all_house" resultType="House_sale" parameterType="String">
+        select * from House_sall where 1=1 and house_state = 0
+        <if test="_parameter!=null and !&quot;&quot;.equals(_parameter.trim())">
+            and house_owner like concat('%',#{_parameter},'%')
+        </if>
+    </select>
+
+    <insert id="insert_request_order">
+        insert into request_order(house_ID,user_ID,time)values(#{map.house_id},#{map.user_id},#{time})
+    </insert>
+
+    <update id="edit_request_order_state_dao" parameterType="int">
+        update House_sall set house_state = 1 where house_ID = #{house_id}
+    </update>
+
+    <select id="user_query_request_order" resultType="House_Order_state" parameterType="int">
+        select House_sall.*,request_order.request_state,request_order.request_ID
+				 from House_sall,request_order where House_sall.house_ID=request_order.house_ID
+				 and request_order.user_ID=#{id}
+    </select>
+    <select id="query_user" parameterType="int" resultType="User">
+        select * from User where user_ID = #{id}
+    </select>
+    <update id="update_balance_dao" parameterType="map">
+        update User set user_balance= #{balance} where user_ID= #{user_id}
+    </update>
+    <update id="edit_request_order_state_finish" parameterType="int">
+        update request_order set request_state = 3 where request_ID = #{id}
+    </update>
+
+    <select id="query_finished_order" parameterType="int" resultType="House_Order_state">
+        select House_sall.*,request_order.time,request_state from House_sall,request_order where
+				House_sall.house_ID=request_order.house_ID and request_order.user_ID = #{id}
+				and request_order.request_state = 3
+    </select>
+    <select id="get_user_ByName" parameterType="String" resultType="User">
+        select user_ID,user_name,user_password,user_state from User where user_name = #{name}
+    </select>
+    <insert id="register_user_db" parameterType="User" >
+        insert into User(user_ID,user_name,user_password,user_sex,user_real_name,
+  		user_age,user_phone,user_IDnumber) values(#{user_ID},#{user_name},#{user_password},
+  		#{user_sex},#{user_real_name},#{user_age},#{user_phone},#{user_IDnumber})
+    </insert>
+    <update id="save_edit_user_dao" parameterType="User" >
+        update User set user_name=user_name,user_password=user_password,user_sex=user_sex,user_real_name=user_real_name,
+        user_age=user_age,user_balance=user_balance,user_phone=user_phone,user_IDnumber=user_IDnumber where user_ID=user_ID
+    </update>
+</mapper>

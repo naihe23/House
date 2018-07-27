@@ -1,0 +1,19 @@
+﻿$(document).ready(function(){
+	
+	
+	edit_personal_information_personal_information_order_jContainer1_obj=$('#edit_personal_information_personal_information_order_jContainer1_container').layout({
+		onresize:function(){},
+		center__paneSelector:'.edit_personal_information_personal_information_order_jContainer1_center'
+		,north__paneSelector:'.edit_personal_information_personal_information_order_jContainer1_north'
+		,north__size:	133
+		,north__spacing_open:	0
+		,west__paneSelector:'.edit_personal_information_personal_information_order_jContainer1_west'
+		,west__size:	241
+		,west__spacing_open:	0
+		,maskIframesOnResize: true
+	});
+});
+
+$(document).ready(function(){
+	edit_personal_information_personal_information_order_jContainer1_obj.resizeAll();
+});

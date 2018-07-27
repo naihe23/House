@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="house_sale.dao.StaffDao">
+
+    <select id="get_admin_ByName" parameterType="String" resultType="AdminPassword">
+       select staff.staff_password,Admin.admin_ID from Admin,staff
+		 		where Admin.staff_ID=staff.staff_ID and staff.staff_name = #{name}
+    </select>
+</mapper>

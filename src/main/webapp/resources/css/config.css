@@ -1,0 +1,1884 @@
+body{font-size:12px;}
+
+#user_index_index_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#user_index_index_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#user_index_index_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#user_index_index_jRegion3{
+  background: #FFFFBF;
+  overflow:hidden;
+}
+
+#user_index_index_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#user_index_index_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#user_index_index_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#register_welcome{
+  left:750px;
+  top: 37px;
+  font-size: 45px;
+  line-height: 47px;
+}
+
+#register_jHtmlForm1_form{
+  position:absolute;
+  left: 59px;
+  top: 29px;
+  width: 100%;
+  height: 90%;
+}
+
+#register_jEdit6{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#register_user_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#register_jPanel2{
+  top: 20px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#register_jEdit7{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#register_user_sex{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#register_jPanel3{
+  top: 35px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#register_jEdit8{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#register_age{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#register_jPanel4{
+  top: 48px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#register_jEdit9{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#register_user_real_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#register_jPanel5{
+  top: 63px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#register_user_Id_num{
+  left: 19px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#register_jEdit10{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#register_jPanel6{
+  top: 75px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#register_jPanel1{
+  top: 139px;
+  height: 420px;
+  width: 689px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#register_jButton1{
+  left: 138px;
+  top: 322px;
+  width:90px;
+  height:20px;
+}
+
+#register_jButton2{
+  left: 277px;
+  top: 324px;
+  width:90px;
+  height:20px;
+}
+
+#book_order_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#book_order_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#book_order_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#book_order_order_jRegion3{
+  background: #FFFFBF;
+  overflow:hidden;
+}
+
+#book_order_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#book_order_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#book_order_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#book_order_order_jEdit1{
+  left: 283px;
+  top: 38px;
+  width:332px;
+  height:34px;
+}
+
+#book_order_order_jImageButton1{
+  left: 625px;
+  top: 38px;
+  width:54px;
+  height:38px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#book_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#book_order_order_jImageButton1 .valigh-fix,#book_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#book_order_order_order_jTable1{
+  left: 150px;
+  top: 118px;
+  height: 188px;
+  width: 907px;
+}
+
+#query_request_order_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#query_request_order_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#query_request_order_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#query_request_order_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#query_request_order_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#query_request_order_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#query_request_order_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#query_request_order_order_jEdit1{
+  left: 283px;
+  top: 38px;
+  width:332px;
+  height:34px;
+}
+
+#query_request_order_order_jImageButton1{
+  left: 625px;
+  top: 38px;
+  width:58px;
+  height:40px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#query_request_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#query_request_order_order_jImageButton1 .valigh-fix,#query_request_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#query_request_order_order_order_jTable1{
+  left: 80px;
+  top: 112px;
+  height: 188px;
+  width: 996px;
+}
+
+#finished_order_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#finished_order_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#finished_order_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#finished_order_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#finished_order_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#finished_order_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#finished_order_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#finished_order_order_jEdit1{
+  left: 283px;
+  top: 38px;
+  width:332px;
+  height:34px;
+}
+
+#finished_order_order_jImageButton1{
+  left: 625px;
+  top: 38px;
+  width:57px;
+  height:40px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#finished_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#finished_order_order_jImageButton1 .valigh-fix,#finished_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#finished_order_order_order_jTable1{
+  left: 123px;
+  top: 114px;
+  height: 188px;
+  width: 907px;
+}
+
+#edit_personal_information_personal_information_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#edit_personal_information_personal_information_jHtmlForm1_form{
+  position:absolute;
+  left: 446px;
+  top: 216px;
+  width: 50%;
+  height: 55%;
+}
+
+#edit_personal_information_personal_information_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#edit_personal_information_personal_information_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#edit_personal_information_personal_information_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#edit_personal_information_personal_information_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#edit_personal_information_personal_information_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#edit_personal_information_personal_information_jEdit1{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_personal_information_personal_information_user_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_jPanel1{
+  top: 20px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_personal_information_personal_information_jEdit2{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_personal_information_personal_information_user_sex{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_jPanel2{
+  top: 35px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_personal_information_personal_information_jEdit3{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_personal_information_personal_information_age{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_jPanel3{
+  top: 48px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_personal_information_personal_information_jEdit4{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_personal_information_personal_information_user_real_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_jPanel4{
+  top: 63px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_personal_information_personal_information_user_Id_num{
+  left: 19px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_personal_information_personal_information_jEdit5{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_personal_information_personal_information_jPanel5{
+  top: 75px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_personal_information_personal_information_jButton1{
+  left: 294px;
+  top: 330px;
+  width:90px;
+  height:23px;
+}
+
+#staff_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#staff_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#staff_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#staff_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#staff_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#staff_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#staff_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#announce_house_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#announce_house_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#announce_house_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#announce_house_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#announce_house_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#announce_house_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#announce_house_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#announce_house_house_house_personal_information_personal_information_jEdit1{
+  left: 133px;
+  top: 10px;
+  width:176px;
+  height:24px;
+}
+
+#announce_house_house_house_personal_information_personal_information_user_name{
+  left: 6px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_personal_information_personal_information_user_sex{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_personal_information_personal_information_jPanel1{
+  left: 71px;
+  top: 31px;
+  height: 45px;
+  width: 321px;
+  background: #33393f;
+}
+
+#announce_house_house_house_personal_information_personal_information_jPanel2{
+  left: 407px;
+  top: 30px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#announce_house_house_house_jPanel4{
+  left: 70px;
+  top: 97px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#announce_house_house_house_jPanel5{
+  left: 406px;
+  top: 97px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#announce_house_house_house_personal_information_personal_information_jEdit2{
+  left: 131px;
+  top: 10px;
+  width:180px;
+  height:24px;
+}
+
+#announce_house_house_house_jLabel6{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_jEdit4{
+  left: 131px;
+  top: 10px;
+  width:180px;
+  height:24px;
+}
+
+#announce_house_house_house_jLabel7{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_jEdit5{
+  left: 131px;
+  top: 10px;
+  width:181px;
+  height:24px;
+}
+
+#announce_house_house_house_jLabel8{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_jEdit6{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#announce_house_house_house_jLabel5{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_jEdit3{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#announce_house_house_house_jPanel6{
+  left: 71px;
+  top: 162px;
+  height: 45px;
+  width: 325px;
+  background: #33393f;
+}
+
+#announce_house_house_house_jLabel9{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_jEdit7{
+  left: 131px;
+  top: 10px;
+  width:182px;
+  height:24px;
+}
+
+#announce_house_house_house_jPanel3{
+  left: 407px;
+  top: 165px;
+  height: 45px;
+  width: 327px;
+  background: #33393f;
+}
+
+#announce_house_house_house_jPanel7{
+  left: 72px;
+  top: 224px;
+  height: 45px;
+  width: 325px;
+  background: #33393f;
+}
+
+#announce_house_house_house_house_jLabel9{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#announce_house_house_house_house_jEdit7{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#announce_house_house_house_house_jPanel7{
+  left: 408px;
+  top: 224px;
+  height: 45px;
+  width: 326px;
+  background: #33393f;
+}
+
+#announce_house_house_house_jButton1{
+  left: 366px;
+  top: 298px;
+  width:75px;
+  height:27px;
+}
+
+#announce_house_house_house_personal_information_personal_information_jHtmlForm1_form{
+  position:absolute;
+  left: 128px;
+  top: 27px;
+  width: 70%;
+  height: 60%;
+}
+
+#edit_house_house_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#edit_house_house_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#edit_house_house_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#edit_house_house_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#edit_house_house_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#edit_house_house_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#edit_house_house_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#edit_house_house_personal_information_personal_information_jEdit1{
+  left: 133px;
+  top: 10px;
+  width:176px;
+  height:24px;
+}
+
+#edit_house_house_personal_information_personal_information_user_name{
+  left: 6px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_personal_information_personal_information_user_sex{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_personal_information_personal_information_jPanel1{
+  left: 71px;
+  top: 31px;
+  height: 45px;
+  width: 321px;
+  background: #33393f;
+}
+
+#edit_house_house_personal_information_personal_information_jPanel2{
+  left: 407px;
+  top: 30px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#edit_house_house_jPanel4{
+  left: 70px;
+  top: 97px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#edit_house_house_jPanel5{
+  left: 406px;
+  top: 97px;
+  height: 45px;
+  width: 323px;
+  background: #33393f;
+}
+
+#edit_house_house_personal_information_personal_information_jEdit2{
+  left: 131px;
+  top: 10px;
+  width:180px;
+  height:24px;
+}
+
+#edit_house_house_jLabel6{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_jEdit4{
+  left: 131px;
+  top: 10px;
+  width:180px;
+  height:24px;
+}
+
+#edit_house_house_jLabel7{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_jEdit5{
+  left: 131px;
+  top: 10px;
+  width:181px;
+  height:24px;
+}
+
+#edit_house_house_jLabel8{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_jEdit6{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#edit_house_house_jLabel5{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_jEdit3{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#edit_house_house_jPanel6{
+  left: 71px;
+  top: 162px;
+  height: 45px;
+  width: 325px;
+  background: #33393f;
+}
+
+#edit_house_house_jLabel9{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_jEdit7{
+  left: 131px;
+  top: 10px;
+  width:182px;
+  height:24px;
+}
+
+#edit_house_house_jPanel3{
+  left: 407px;
+  top: 165px;
+  height: 45px;
+  width: 327px;
+  background: #33393f;
+}
+
+#edit_house_house_jPanel7{
+  left: 72px;
+  top: 224px;
+  height: 45px;
+  width: 325px;
+  background: #33393f;
+}
+
+#edit_house_house_house_jLabel9{
+  left: 6px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_house_house_house_jEdit7{
+  left: 131px;
+  top: 10px;
+  width:183px;
+  height:24px;
+}
+
+#edit_house_house_house_jPanel7{
+  left: 408px;
+  top: 224px;
+  height: 45px;
+  width: 326px;
+  background: #33393f;
+}
+
+#edit_house_house_jButton1{
+  left: 366px;
+  top: 298px;
+  width:75px;
+  height:27px;
+}
+
+#edit_house_house_personal_information_personal_information_jHtmlForm1_form{
+  position:absolute;
+  left: 146px;
+  top: 25px;
+  width: 70%;
+  height: 60%;
+}
+
+#check_order_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#check_order_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#check_order_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#check_order_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#check_order_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#check_order_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#check_order_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#check_order_jLabel3{
+  left: 447px;
+  top: 37px;
+  font-size: 24px;
+  line-height: 26px;
+}
+
+#check_order_jTable1{
+  left: 146px;
+  top: 87px;
+  height: 171px;
+  width: 799px;
+}
+
+#edit_staff_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#edit_staff_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#edit_staff_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#edit_staff_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#edit_staff_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#edit_staff_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#edit_staff_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#edit_staff_personal_information_personal_information_jEdit1{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_staff_personal_information_personal_information_user_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_staff_personal_information_personal_information_jPanel1{
+  top: 20px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_staff_personal_information_personal_information_jEdit2{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_staff_personal_information_personal_information_user_sex{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_staff_personal_information_personal_information_jPanel2{
+  top: 35px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_staff_personal_information_personal_information_jEdit3{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_staff_personal_information_personal_information_age{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_staff_personal_information_personal_information_jPanel3{
+  top: 48px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_staff_personal_information_personal_information_jEdit4{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_staff_personal_information_personal_information_user_real_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_staff_personal_information_personal_information_jPanel4{
+  top: 63px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_staff_personal_information_personal_information_user_Id_num{
+  left: 19px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_staff_personal_information_personal_information_jEdit5{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_staff_personal_information_personal_information_jPanel5{
+  top: 75px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_staff_personal_information_personal_information_jHtmlForm1_form{
+  position:absolute;
+  left: 250px;
+  top: 70px;
+  width: 50%;
+  height: 55%;
+}
+
+#edit_staff_personal_information_personal_information_jButton1{
+  left: 209px;
+  top: 315px;
+  width:90px;
+  height:23px;
+}
+
+#admin_index_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#admin_index_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#admin_index_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#admin_index_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#admin_index_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#admin_index_index_order_jLabel2{
+  left: 1213px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#admin_index_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 239px;
+  z-index: 3;
+}
+
+#admin_user_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#admin_user_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#admin_user_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#admin_user_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#admin_user_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#admin_user_index_order_jLabel2{
+  left: 1213px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#admin_user_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#admin_user_request_order_order_jEdit1{
+  left: 339px;
+  top: 43px;
+  width:332px;
+  height:34px;
+}
+
+#admin_user_request_order_order_jImageButton1{
+  left: 684px;
+  top: 43px;
+  width:59px;
+  height:42px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#admin_user_request_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#admin_user_request_order_order_jImageButton1 .valigh-fix,#admin_user_request_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#admin_user_user_jTable1{
+  left: 337px;
+  top: 131px;
+  height: 80px;
+  width: 425px;
+}
+
+#check_user_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#check_user_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#check_user_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#check_user_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#check_user_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#check_user_index_order_jLabel2{
+  left: 1213px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#check_user_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#check_user_jTable1{
+  left: 198px;
+  top: 118px;
+  height: 73px;
+  width: 689px;
+}
+
+#page25_user_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page25_user_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#page25_user_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#page25_user_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#page25_user_index_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#page25_user_index_order_jLabel2{
+  left: 1213px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#page25_user_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#page25_user_request_order_order_jEdit1{
+  left: 339px;
+  top: 43px;
+  width:332px;
+  height:34px;
+}
+
+#page25_user_request_order_order_jImageButton1{
+  left: 684px;
+  top: 43px;
+  width:57px;
+  height:41px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#page25_user_request_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#page25_user_request_order_order_jImageButton1 .valigh-fix,#page25_user_request_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#page25_user_jTable1{
+  left: 337px;
+  top: 129px;
+  height: 76px;
+  width: 427px;
+}
+
+#edit_admin_staff_index_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#edit_admin_staff_index_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#edit_admin_staff_index_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#edit_admin_staff_index_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#edit_admin_staff_index_order_jLabel1{
+  left: 464px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#edit_admin_staff_index_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#edit_admin_staff_index_order_jMenuV1{
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  z-index: 3;
+}
+
+#edit_admin_staff_personal_information_personal_information_jEdit1{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_admin_staff_personal_information_personal_information_user_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jPanel1{
+  top: 20px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_admin_staff_personal_information_personal_information_jEdit2{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_admin_staff_personal_information_personal_information_user_sex{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jPanel2{
+  top: 35px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_admin_staff_personal_information_personal_information_jEdit3{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_admin_staff_personal_information_personal_information_age{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jPanel3{
+  top: 48px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_admin_staff_personal_information_personal_information_jEdit4{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_admin_staff_personal_information_personal_information_user_real_name{
+  left: 19px;
+  top: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jPanel4{
+  top: 63px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_admin_staff_personal_information_personal_information_user_Id_num{
+  left: 19px;
+  top: 16px;
+  font-size: 16px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jEdit5{
+  left: 99px;
+  top: 9px;
+  width:290px;
+  height:24px;
+}
+
+#edit_admin_staff_personal_information_personal_information_jPanel5{
+  top: 75px;
+  height: 45px;
+  width: 402px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #33393f;
+}
+
+#edit_admin_staff_personal_information_personal_information_jHtmlForm1_form{
+  position:absolute;
+  left: 250px;
+  top: 70px;
+  width: 50%;
+  height: 60%;
+}
+
+#edit_admin_staff_personal_information_personal_information_jButton1{
+  left: 214px;
+  top: 326px;
+  width:90px;
+  height:23px;
+}
+
+#page28_request_order_order_jContainer1{
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#page28_request_order_order_jRegion1{
+  background: #F0F0F0;
+  overflow:hidden;
+}
+
+#page28_request_order_order_jRegion2{
+  background: url(../images/background.jpg) repeat;
+  overflow:hidden;
+}
+
+#page28_request_order_order_jRegion3{
+  background: #F8FFBF;
+  overflow:hidden;
+}
+
+#page28_request_order_order_jLabel1{
+  left: 445px;
+  top: 44px;
+  font-size: 36px;
+  line-height: 38px;
+}
+
+#page28_request_order_order_jLabel2{
+  left: 1267px;
+  top: 103px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#page28_request_order_order_jEdit1{
+  left: 283px;
+  top: 38px;
+  width:332px;
+  height:34px;
+}
+
+#page28_request_order_order_jImageButton1{
+  left: 625px;
+  top: 38px;
+  width:58px;
+  height:40px;
+  background-image: url(../images/search.png);
+  background-position: center center;
+  padding: 0px;
+}
+
+#page28_request_order_order_jImageButton1:hover{
+  background-image: url(../images/search.png);
+}
+
+#page28_request_order_order_jImageButton1 .valigh-fix,#page28_request_order_order_jImageButton1 .button_txtR{
+  vertical-align: middle;
+}
+
+#page28_request_order_order_order_jTable1{
+  left: 80px;
+  top: 112px;
+  height: 188px;
+  width: 907px;
+}
+
+#page28_house_house_index_order_jMenuV1{
+  left: 4px;
+  top: 4px;
+  width: 240px;
+  z-index: 3;
+}
+

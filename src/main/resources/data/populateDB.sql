@@ -1,0 +1,24 @@
+INSERT INTO User VALUES (1, '小明', 123456789, '男', '张三', 34, 1521120, 1, 1345435345,132154654878);
+INSERT INTO User VALUES (2, '小彬', 44534534554, '女', '张彬', 35, 15231620, 0, 3453464566,1515645465);
+INSERT INTO User VALUES (3, '小红', 787684674, '男', '周憋凯', 56, 4823125, 0, 4353465476,1205465415165);
+INSERT INTO User VALUES (4, '小蓝', 12345678, '男', '周憋凯', 56, 4823125, 1, 4353465476,41416416451);
+INSERT INTO User VALUES (5, '小黄', 787684674, '女', '周凯', 56, 4823125, 1, 4353465476,41416416451);
+INSERT INTO User VALUES (6, '小白', 787684674, '男', '周憋', 56, 4823125, 1, 4353465476,41416416451);
+INSERT INTO staff VALUES (1, '员工1', 453456546, '女', '张四', 45, 1);
+INSERT INTO staff VALUES (2, '员工2', 123456, '男', '李五', 34, 1);
+INSERT INTO staff VALUES (3, '员工3', 1234567, '男', '周凯憋', 33, 0);
+INSERT INTO Admin VALUES (1, 1);
+INSERT INTO House_sall VALUES (1, '套房', 1, '江西省南昌市紫金园', '2017-2-18', 0, '三室一厅', '130000', 122, '黎明');
+INSERT INTO House_sall VALUES (2, '别墅', 3, '江西省南昌市莲塘镇', '2018-5-1', 0, '两室一厅', '234567', 333, '夯实');
+INSERT INTO House_sall VALUES (3, '栋房', 2, '江西省南昌市新建区', '2018-5-3', 0, '五室两厅', '124567', 342, '坤角儿');
+INSERT INTO House_sall VALUES (4, '别墅', 3, '江西省赣州市', '2018-4-1', 0, '一室一厅', '90000', 120, '快捷');
+
+INSERT INTO order_recode VALUES (1, 1, 1, 2, '2018-5-22 19:43:13');
+INSERT INTO request_order VALUES (1, 1, 3, '2018-5-2 17:41:32', 0);
+INSERT INTO request_order VALUES (2, 2, 3, '2018-5-2 17:41:32', 2);
+INSERT INTO request_order VALUES (3, 3, 3, '2018-5-2 17:41:32', 1);
+INSERT INTO request_order VALUES (4, 2, 2, '2018-5-3 17:00:00', 0);
+INSERT INTO request_order VALUES (5, 4, 1, '2018-5-1 17:41:32', 1);
+INSERT INTO request_order VALUES (6, 2, 1, '2018-5-1 17:41:32', 0);
+INSERT INTO request_order VALUES (7, 1, 1, '2018-5-1 17:41:32', 1);
+INSERT INTO work_recode VALUES (1, 1, 1, '2018-5-2 17:39:36');

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/house_sale/controller/AdminController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/house_sale/controller/StaffController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/house_sale/controller/UserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/data/populateDB.sql" charset="GBK" />
+  </component>
+</project>
